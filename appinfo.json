@@ -1,0 +1,21 @@
+{
+    "companyName": "jose.troche.coder@gmail.com",
+    "shortName": "AppMessage",
+    "longName": "AppMessage",
+    "watchapp": {
+        "watchface": false
+    },
+    "uuid": "4f3001b9-d41a-4902-9bb4-b75bdbc58125",
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        ""
+    ],
+    "appKeys": {
+        "status": 0,
+        "message": 1
+    },
+    "versionLabel": "1.0",
+    "versionCode": 1
+}
